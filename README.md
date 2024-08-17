@@ -1,3 +1,9 @@
+# StopTheX
+
+Note: I only modified the app identifier so that it's the same as the X app. I'm not providing compiled versions, but you should be able to do it easily if you have a developer account. It seems to work on my end. And, of course, thanks to Jeff Johnson.
+
+If you want to test it, the old app has the identifier `maccatalyst.com.atebits.Tweetie2` and the new one has the identifier `com.atebits.Tweetie2`.
+
 # StopTheTwitter
 
 StopTheTwitter is an app for macOS 10.15 Catalina and later that stops "Open in the Twitter app" from appearing at the top of `twitter.com` web pages in Safari when the official Twitter Mac app is installed.
